@@ -46,12 +46,12 @@ Total: **17,070** lines of code across **147** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 1 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-27 | 1 | 0 | 0 | 0 | 0 | 7 |
-| 90d | 2026-06-27 | 2 | 0 | 0 | 0 | 0 | 9 |
-| last180d | 2026-03-29 | 4 | 0 | 0 | 0 | 0 | 14 |
-| 360d | 2025-09-30 | 9 | 0 | 0 | 1 | 0 | 27 |
-| last720d | 2024-10-05 | 24 | 2 | 0 | 3 | 0 | 108 |
+| 30d | 2026-08-27 | 1 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-28 | 1 | 0 | 0 | 0 | 0 | 7 |
+| 90d | 2026-06-28 | 2 | 0 | 0 | 0 | 0 | 9 |
+| last180d | 2026-03-30 | 4 | 0 | 0 | 0 | 0 | 14 |
+| 360d | 2025-10-01 | 9 | 0 | 0 | 1 | 0 | 27 |
+| last720d | 2024-10-06 | 24 | 2 | 0 | 3 | 0 | 106 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for llm-workflow-engine lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:16:00Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:09:57Z._
