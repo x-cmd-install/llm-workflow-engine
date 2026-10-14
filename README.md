@@ -14,14 +14,14 @@ x install llm-workflow-engine
 
 ## Code insight
 
-Total: **18,287** lines of code across **157** files in the top 5 languages.
+Total: **18,295** lines of code across **157** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 15,677 | 331 | 1,836 | 96 |
+| Python | 15,683 | 331 | 1,838 | 96 |
 | ReStructuredText | 1,494 | 0 | 657 | 29 |
 | Yaml | 842 | 247 | 137 | 28 |
-| Toml | 87 | 0 | 9 | 1 |
+| Toml | 89 | 0 | 9 | 1 |
 | Sh | 67 | 8 | 12 | 3 |
 
 ## Source
@@ -31,27 +31,27 @@ Total: **18,287** lines of code across **157** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.22.25`
-- **Last commit**: 2026-10-13
+- **Latest**: `v0.23.1`
+- **Last commit**: 2026-10-14
 
 ## Popularity
 
-- **Stars**: 3,716 · **Forks**: 462 · **Open issues**: 221 · **Contributors**: 23
+- **Stars**: 3,717 · **Forks**: 462 · **Open issues**: 221 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 116 · **Merged PRs**: 65 · **Open PRs**: 0 · **Closed issues**: 218 · **Open issues**: 3 · **Commits**: 1460
+- **Releases**: 118 · **Merged PRs**: 65 · **Open PRs**: 0 · **Closed issues**: 218 · **Open issues**: 3 · **Commits**: 1465
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-14 | 1 | 0 | 0 | 0 | 0 | 8 |
-| 90d | 2026-07-15 | 2 | 0 | 0 | 0 | 0 | 12 |
-| last180d | 2026-04-16 | 4 | 0 | 0 | 0 | 0 | 19 |
-| 360d | 2025-10-18 | 8 | 0 | 0 | 1 | 0 | 30 |
-| last720d | 2024-10-23 | 24 | 2 | 0 | 3 | 0 | 110 |
+| 30d | 2026-09-14 | 2 | 0 | 0 | 0 | 0 | 10 |
+| last60d | 2026-08-15 | 3 | 0 | 0 | 0 | 0 | 13 |
+| 90d | 2026-07-16 | 3 | 0 | 0 | 0 | 0 | 17 |
+| last180d | 2026-04-17 | 6 | 0 | 0 | 0 | 0 | 24 |
+| 360d | 2025-10-19 | 10 | 0 | 0 | 1 | 0 | 35 |
+| last720d | 2024-10-24 | 26 | 2 | 0 | 3 | 0 | 115 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for llm-workflow-engine lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:13:23Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:18:50Z._
