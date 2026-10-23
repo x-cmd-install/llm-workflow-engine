@@ -14,11 +14,11 @@ x install llm-workflow-engine
 
 ## Code insight
 
-Total: **18,295** lines of code across **157** files in the top 5 languages.
+Total: **18,384** lines of code across **158** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 15,683 | 331 | 1,838 | 96 |
+| Python | 15,772 | 331 | 1,851 | 97 |
 | ReStructuredText | 1,494 | 0 | 657 | 29 |
 | Yaml | 842 | 247 | 137 | 28 |
 | Toml | 89 | 0 | 9 | 1 |
@@ -32,7 +32,7 @@ Total: **18,295** lines of code across **157** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.23.1`
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
@@ -40,18 +40,18 @@ Total: **18,295** lines of code across **157** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 65 · **Open PRs**: 0 · **Closed issues**: 218 · **Open issues**: 4 · **Commits**: 1465
+- **Releases**: 118 · **Merged PRs**: 65 · **Open PRs**: 0 · **Closed issues**: 218 · **Open issues**: 4 · **Commits**: 1467
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 0 | 0 | 0 | 1 | 10 |
-| last60d | 2026-08-23 | 3 | 0 | 0 | 0 | 1 | 13 |
-| 90d | 2026-07-24 | 3 | 0 | 0 | 0 | 1 | 17 |
-| last180d | 2026-04-25 | 5 | 0 | 0 | 0 | 1 | 22 |
-| 360d | 2025-10-27 | 10 | 0 | 0 | 1 | 1 | 35 |
-| last720d | 2024-11-01 | 26 | 2 | 0 | 3 | 1 | 114 |
+| 30d | 2026-09-23 | 2 | 0 | 0 | 0 | 1 | 12 |
+| last60d | 2026-08-24 | 3 | 0 | 0 | 0 | 1 | 15 |
+| 90d | 2026-07-25 | 3 | 0 | 0 | 0 | 1 | 19 |
+| last180d | 2026-04-26 | 5 | 0 | 0 | 0 | 1 | 24 |
+| 360d | 2025-10-28 | 10 | 0 | 0 | 1 | 1 | 37 |
+| last720d | 2024-11-02 | 26 | 2 | 0 | 3 | 1 | 116 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for llm-workflow-engine lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:06:39Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:09:04Z._
