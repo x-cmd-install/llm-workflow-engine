@@ -14,11 +14,11 @@ x install llm-workflow-engine
 
 ## Code insight
 
-Total: **18,384** lines of code across **158** files in the top 5 languages.
+Total: **18,390** lines of code across **158** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 15,772 | 331 | 1,851 | 97 |
+| Python | 15,778 | 331 | 1,851 | 97 |
 | ReStructuredText | 1,494 | 0 | 657 | 29 |
 | Yaml | 842 | 247 | 137 | 28 |
 | Toml | 89 | 0 | 9 | 1 |
@@ -31,27 +31,27 @@ Total: **18,384** lines of code across **158** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.23.1`
-- **Last commit**: 2026-10-23
+- **Latest**: `v0.23.3`
+- **Last commit**: 2026-10-27
 
 ## Popularity
 
-- **Stars**: 3,713 · **Forks**: 462 · **Open issues**: 222 · **Contributors**: 23
+- **Stars**: 3,714 · **Forks**: 462 · **Open issues**: 222 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 65 · **Open PRs**: 0 · **Closed issues**: 218 · **Open issues**: 4 · **Commits**: 1467
+- **Releases**: 119 · **Merged PRs**: 65 · **Open PRs**: 0 · **Closed issues**: 218 · **Open issues**: 4 · **Commits**: 1469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 0 | 0 | 0 | 1 | 12 |
-| last60d | 2026-08-27 | 3 | 0 | 0 | 0 | 1 | 15 |
-| 90d | 2026-07-28 | 3 | 0 | 0 | 0 | 1 | 19 |
-| last180d | 2026-04-29 | 5 | 0 | 0 | 0 | 1 | 21 |
-| 360d | 2025-10-31 | 10 | 0 | 0 | 1 | 1 | 37 |
-| last720d | 2024-11-05 | 25 | 2 | 0 | 3 | 1 | 109 |
+| 30d | 2026-09-27 | 3 | 0 | 0 | 0 | 1 | 14 |
+| last60d | 2026-08-28 | 4 | 0 | 0 | 0 | 1 | 17 |
+| 90d | 2026-07-29 | 4 | 0 | 0 | 0 | 1 | 21 |
+| last180d | 2026-04-30 | 6 | 0 | 0 | 0 | 1 | 23 |
+| 360d | 2025-11-01 | 11 | 0 | 0 | 1 | 1 | 39 |
+| last720d | 2024-11-06 | 26 | 2 | 0 | 3 | 1 | 111 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for llm-workflow-engine lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T06:03:40Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:30:41Z._
