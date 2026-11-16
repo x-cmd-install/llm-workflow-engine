@@ -36,22 +36,22 @@ Total: **18,390** lines of code across **158** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,715 · **Forks**: 461 · **Open issues**: 222 · **Contributors**: 23
+- **Stars**: 3,715 · **Forks**: 461 · **Open issues**: 223 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 65 · **Open PRs**: 0 · **Closed issues**: 219 · **Open issues**: 3 · **Commits**: 1471
+- **Releases**: 120 · **Merged PRs**: 65 · **Open PRs**: 0 · **Closed issues**: 219 · **Open issues**: 4 · **Commits**: 1471
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 0 | 0 | 1 | 0 | 4 |
-| last60d | 2026-09-16 | 4 | 0 | 0 | 1 | 0 | 16 |
-| 90d | 2026-08-17 | 5 | 0 | 0 | 1 | 0 | 19 |
-| last180d | 2026-05-19 | 6 | 0 | 0 | 1 | 0 | 25 |
-| 360d | 2025-11-20 | 11 | 0 | 0 | 2 | 0 | 37 |
-| last720d | 2024-11-25 | 26 | 2 | 0 | 4 | 0 | 109 |
+| 30d | 2026-10-17 | 2 | 0 | 0 | 1 | 1 | 4 |
+| last60d | 2026-09-17 | 4 | 0 | 0 | 1 | 1 | 16 |
+| 90d | 2026-08-18 | 5 | 0 | 0 | 1 | 1 | 19 |
+| last180d | 2026-05-20 | 6 | 0 | 0 | 1 | 1 | 25 |
+| 360d | 2025-11-21 | 11 | 0 | 0 | 2 | 1 | 37 |
+| last720d | 2024-11-26 | 26 | 2 | 0 | 4 | 1 | 109 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for llm-workflow-engine lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:21:26Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:47:08Z._
