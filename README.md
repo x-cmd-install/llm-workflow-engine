@@ -21,7 +21,7 @@ Total: **18,396** lines of code across **158** files in the top 5 languages.
 | Python | 15,784 | 331 | 1,851 | 97 |
 | ReStructuredText | 1,494 | 0 | 657 | 29 |
 | Yaml | 842 | 247 | 137 | 28 |
-| Toml | 89 | 0 | 9 | 1 |
+| Toml | 91 | 0 | 9 | 1 |
 | Sh | 67 | 8 | 12 | 3 |
 
 ## Source
@@ -31,27 +31,27 @@ Total: **18,396** lines of code across **158** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.23.5`
-- **Last commit**: 2026-11-17
+- **Latest**: `v0.23.6`
+- **Last commit**: 2026-11-23
 
 ## Popularity
 
-- **Stars**: 3,714 · **Forks**: 460 · **Open issues**: 223 · **Contributors**: 23
+- **Stars**: 3,713 · **Forks**: 460 · **Open issues**: 223 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 121 · **Merged PRs**: 65 · **Open PRs**: 0 · **Closed issues**: 219 · **Open issues**: 4 · **Commits**: 1473
+- **Releases**: 122 · **Merged PRs**: 65 · **Open PRs**: 0 · **Closed issues**: 219 · **Open issues**: 4 · **Commits**: 1476
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 3 | 0 | 0 | 0 | 1 | 4 |
-| last60d | 2026-09-24 | 5 | 0 | 0 | 1 | 1 | 18 |
-| 90d | 2026-08-25 | 6 | 0 | 0 | 1 | 1 | 21 |
-| last180d | 2026-05-27 | 7 | 0 | 0 | 1 | 1 | 27 |
-| 360d | 2025-11-28 | 12 | 0 | 0 | 2 | 1 | 39 |
-| last720d | 2024-12-03 | 27 | 2 | 0 | 4 | 1 | 111 |
+| 30d | 2026-10-25 | 4 | 0 | 0 | 0 | 1 | 7 |
+| last60d | 2026-09-25 | 6 | 0 | 0 | 1 | 1 | 21 |
+| 90d | 2026-08-26 | 7 | 0 | 0 | 1 | 1 | 24 |
+| last180d | 2026-05-28 | 8 | 0 | 0 | 1 | 1 | 30 |
+| 360d | 2025-11-29 | 13 | 0 | 0 | 2 | 1 | 42 |
+| last720d | 2024-12-04 | 28 | 2 | 0 | 4 | 1 | 114 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for llm-workflow-engine lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:30:24Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:52:48Z._
